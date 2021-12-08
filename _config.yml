@@ -43,7 +43,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: 김종도
 # URL for the Image of the Author
-author-image: https://ca.slack-edge.com/T01G107QCRW-U02P8DCLWGK-84385fe3831e-72
+author-image: #https://ca.slack-edge.com/T01G107QCRW-U02P8DCLWGK-84385fe3831e-72
 # 60 Words About the Author
 author-about: 코딩 좀 잘해보자!
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
