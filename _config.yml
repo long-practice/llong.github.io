@@ -1,6 +1,12 @@
 # WhatATheme
 markdown: kramdown
 
+# Math equation
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 # URL of the Site
 url: 'https://long-practice.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
@@ -34,12 +40,6 @@ behance_username: /
 dribbble_username: /
 spotify_username: /
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
 
 # Google Analytics
 google-analytics: UA-163806439-1
